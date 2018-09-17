@@ -22,12 +22,13 @@ Please find the "Requirement.txt" file for dependancy
 # Example
 
 ```
-python toi.py -u https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms -o
+python toi.py -u [https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms]([https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms]) -o
 ```
 
 ### Output
 
-## Title: India needs to boost efforts as Bhutan polls spring a surprise
+## Title:
+India needs to boost efforts as Bhutan polls spring a surprise
 
 ## Body: 
 NEW DELHI: As Bhutan’s election threw up a surprise result by voting out the incumbent, India will have to work doubly hard to help its closest neighbour achieve its aspirations while securing its interests. The ruling People’s Democratic Party (PDP) of PM Tshering Tobgay found itself trailing at third position while a newcomer, Druk Nyamrup Tshogpa (DNT) surged ahead to first place, winning 92,722 votes out of 291,098 votes cast through postal ballots and EVM. 
