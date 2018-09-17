@@ -20,9 +20,10 @@ $python toi.py -u <url of Times of india Article> -o # -o parameter will store o
 Please find the "Requirement.txt" file for dependancy 
 
 # Example
+Example of [India needs to boost efforts as Bhutan polls spring a surprise](https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms) this article
 
 ```
-python toi.py -u [https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms](https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms) -o
+python toi.py -u https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms -o
 ```
 
 ### Output
