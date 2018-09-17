@@ -1,4 +1,4 @@
-# toi script for scrapping Times of India articles
+# A web scrap that pulls all the contents to the Times of India, and then for each article (newspaper or long blog), generate a meaning summary of the article
 
 ## script usage:
 clone the git repo with
