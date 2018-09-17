@@ -1,6 +1,14 @@
 # toi script for scrapping Times of India articles
 
 ## script usages:
+clone the git repo with
+```
+$git clone https://github.com/sachinchavan9/blue_bricks_scrapper.git
+```
+Install the dependancy with
+```
+$pip install -r requirement.txt
+```
 
 ```
 $python toi.py -h # for help
