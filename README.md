@@ -22,7 +22,7 @@ Please find the "Requirement.txt" file for dependancy
 # Example
 
 ```
-python toi.py -u [https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms]([https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms]) -o
+python toi.py -u [https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms](https://timesofindia.indiatimes.com/india/india-keeps-close-eye-as-bhutan-polls-spring-surprise-result/articleshow/65831694.cms) -o
 ```
 
 ### Output
