@@ -3,15 +3,15 @@
 ## script usages:
 clone the git repo with
 ```
-$git clone https://github.com/sachinchavan9/blue_bricks_scrapper.git
+git clone https://github.com/sachinchavan9/blue_bricks_scrapper.git
 ```
 Install the dependancy with
 ```
-$pip install -r requirement.txt
+pip install -r requirement.txt
 ```
 
 ```
-$python toi.py -h # for help
+python toi.py -h # for help
 
 usage: toi.py [-h] [-u URL] [-o]
 
@@ -20,8 +20,8 @@ optional arguments:
   -u URL, --url URL  [REQUIRED] TOI url
   -o, --output       [OPTIONAL] this will save output into text file
 
-$python toi.py -u <url of Times of india Article>
-$python toi.py -u <url of Times of india Article> -o # -o parameter will store outupt file in txt format
+python toi.py -u <url of Times of india Article>
+python toi.py -u <url of Times of india Article> -o # -o parameter will store outupt file in txt format
 ```
 
 ### Python Version == 3.7.0
