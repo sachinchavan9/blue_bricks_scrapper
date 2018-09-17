@@ -1,6 +1,6 @@
 # toi script for scrapping Times of India articles
 
-## script usages:
+## script usage:
 clone the git repo with
 ```
 git clone https://github.com/sachinchavan9/blue_bricks_scrapper.git
